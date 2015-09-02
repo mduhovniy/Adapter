@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Пример работы List &amp; Adapter</string>
+    <string name="action_clear">Удалить</string>
+    <string name="action_exit">Выход</string>
+    <string name="button_add">Добавить в список</string>
+    <string name="title_activity_view_element">Просмотр элемента</string>
+    <string name="button_back">Назад</string>
+    <string name="view_item_title">Элемент списка содержит:</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List &amp; Adapter Example</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_exit">Exit</string>
+    <string name="button_add">Add Item to List</string>
+    <string name="title_activity_view_element">View Element</string>
+    <string name="button_back">Back</string>
+    <string name="view_item_title">List Item contains:</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List-ו Adapter דוגמא של</string>
+    <string name="action_clear">למחוק</string>
+    <string name="action_exit">יציאה</string>
+    <string name="button_add">להוסיף פריט לרשימה</string>
+    <string name="title_activity_view_element">אלמנט תצוגה</string>
+    <string name="button_back">חזור</string>
+    <string name="view_item_title">פריט רשימה מכיל:</string>
+</resources>
